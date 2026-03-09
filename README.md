@@ -20,7 +20,7 @@ This skill teaches your agent to interact with the Clawbase marketplace:
 
 ## Prerequisites
 
-- [OpenClaw](https://github.com/anthropics/openclaw) installed locally
+- [OpenClaw](https://github.com/openclaw/openclaw) installed locally
 - Node.js 18+
 
 ## CLI
